@@ -3,7 +3,7 @@ version 39
 __lua__
 function _init()
 
- -- tutorial: https://youtu.be/hBGMhQt08zg?si=nKOG2SqL4eP4ccHD
+ -- tutorial: youtu.be/hBGMhQt08zg?si=nKOG2SqL4eP4ccHD
 
  message = "hello world!  "
  frame = 0
